@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: rgb(37, 5, 1);
+  background: rgb(136, 226, 253);
+}
+
+.estiloPlayer {
+  border: 6px solid rgb(0, 0, 0);
+  width: 854px;
+  height: 480px;
+  margin: 0 auto; /* centraliza horizontalmente */
+}
